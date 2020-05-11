@@ -64,5 +64,8 @@ contributions:
       url: "https://github.com/martif1202/processing/blob/master/triple_pendulum.pde"
     url: "https://github.com/martif1202/processing/blob/master/triple_pendulum.pde"
     source: "https://github.com/martif1202/processing/blob/master/triple_pendulum.pde"
+    
+    name: "Yaragon Tech Inc."
+      url: "https://editor.p5js.org/God_of_Awesomeness/sketches/l7PP60ugA"
 ---
 In this coding challenge, I create a double pendulum simulation in Processing.
